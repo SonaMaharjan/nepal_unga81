@@ -32,9 +32,9 @@ Individual engagements could contain multiple topics.
 ## Tools and Technologies
 
 - **Python**
-- **pandas** — data cleaning, transformation and analysis
-- **Matplotlib and Seaborn** — data visualisation
-- **Plotly** — geographic and interactive visualisation
+- **pandas**: data cleaning, transformation and analysis
+- **Matplotlib and Seaborn**: data visualisation
+- **Plotly**: geographic and interactive visualisation
 
 ## Key Findings
 
@@ -117,4 +117,4 @@ python3 main/analysis.py
 
 ## Further Reading
 
-A longer discussion of the findings, motivation and limitations is available in my accompanying blog post: *What Following Nepal's Participation at UNGA 81 Revealed*.
+Read my [full analysis on Medium](https://medium.com/@orchrysos/what-following-nepals-participation-at-unga-81-revealed-aaa579db65a4)
